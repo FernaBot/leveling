@@ -1,0 +1,26 @@
+{
+  "name": "@ferna/leveling",
+  "version": "1.0.0",
+  "description": "A framework of the leveling feature system used by the ferna bot.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernaBot/leveling.git"
+  },
+  "keywords": [
+    "ferna",
+    "ferna-bot",
+    "framework",
+    "discord",
+    "discord-bot",
+    "discord-leveling"
+  ],
+  "author": "VinnDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FernaBot/leveling/issues"
+  },
+  "homepage": "https://github.com/FernaBot/leveling#readme"
+}
